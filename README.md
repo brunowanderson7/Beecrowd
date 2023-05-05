@@ -8,6 +8,7 @@
  - [x] [1018 - Banknotes](https://github.com/brunowanderson7/beecrowd-solutions/blob/master/1018.c)
  - [x] [1019 - Time Conversion](https://github.com/brunowanderson7/Beecrowd/blob/master/1019.py)
  - [x] [1020 - Age in Days](https://github.com/brunowanderson7/beecrowd-solutions/blob/master/1020.c)
+ - [x] [1024 - Encrypt](https://github.com/brunowanderson7/beecrowd-solutions/blob/master/1024.py)
  - [x] [1038 - Snack](https://github.com/brunowanderson7/beecrowd-solutions/blob/master/1038.c)
  - [x] [1040 - Avarenge 3](https://github.com/brunowanderson7/beecrowd-solutions/blob/master/1040.c)
  - [x] [1041 - Coordinates of a Point](https://github.com/brunowanderson7/beecrowd-solutions/blob/master/1041.c)

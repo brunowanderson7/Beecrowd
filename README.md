@@ -32,6 +32,7 @@
  - [x] [1197 - Return to the Faculty of Physics](https://github.com/brunowanderson7/Beecrowd/blob/master/1197.py)
  - [x] [1198 - The Brave Warrior Hashmat](https://github.com/brunowanderson7/Beecrowd/blob/master/1198.py)
  - [x] [1222 - Short Story Contest](https://github.com/brunowanderson7/Beecrowd/blob/master/1222.py)
+ - [x] [1240 - Fits or Doesn't I](https://github.com/brunowanderson7/Beecrowd/blob/master/1240.py)
  - [x] [1287 - Integer Friendly Processor](https://github.com/brunowanderson7/Beecrowd/blob/master/1287.py)
  - [x] [1337 - King's Poker](https://github.com/brunowanderson7/Beecrowd/blob/master/1337.py)
  - [ ] 1424 - Rujia Liu's Easy Problem?
